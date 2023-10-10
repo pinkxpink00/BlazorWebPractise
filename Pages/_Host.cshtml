@@ -1,8 +1,17 @@
 ﻿@page "/"
-@namespace HelloBlazorServerApp.Pages
+@*HelloBlazorServerApp, HelloBlazorServerApp.Pages*@
+@namespace HelloBlazorServerApp
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
-@{
-    Layout = "_Layout";
-}
 
-<component type="typeof(App)" render-mode="ServerPrerendered" />
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Practice BLAZOR</title>
+		<base href="~/" />
+	</head>
+	<body>
+	<component type="typeof(App)" render-mode="ServerPrerendered" />
+	<script src="_framework/blazor.server.js"></script>
+	</body>
+</html>

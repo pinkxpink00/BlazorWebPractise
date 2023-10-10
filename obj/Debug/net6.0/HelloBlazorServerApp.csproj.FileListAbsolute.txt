@@ -20,10 +20,7 @@ C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\staticwebasset
 C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\scopedcss\bundle\HelloBlazorServerApp.styles.css
-C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\scopedcss\projectbundle\HelloBlazorServerApp.bundle.scp.css
 C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\HelloBlazorServerApp.dll
 C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\refint\HelloBlazorServerApp.dll
 C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\HelloBlazorServerApp.pdb
