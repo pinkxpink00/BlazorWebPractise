@@ -1,25 +1,17 @@
 ﻿@page "/"
 @*HelloBlazorServerApp, HelloBlazorServerApp.Pages*@
-@namespace HelloBlazorServerApp
-@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
-@{
-	Layout = null;
-}
+@namespace HelloBlazorServerApp.Pages
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
 
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8" />
-		<title>Practice BLAZOR</title>
-		<base href="~/" />
-	</head>
-<body>
-	<!--Blazor:{"sequence":0,"type":"server","prerenderId":"dc73e5a95532421a86ed3e7b63831c29","descriptor":"CfDJ8Fk8vifEZkRIkHb7fyKYxf4Pot9NOd99n7gr76JhjDn9dEpcPv\u002BHCCJ6Q9eI1PdLN\u002B5RiL94B81CxuFfSfir4ZZB04W8e1U9qKM/OOOx6UdhPAIDWSXUZW8CHbKrTfqJXyB6p9Oa\u002B/qOFq1aCrgOigNJVwPrQqFocMO9iFft8pew2/dI3za5dsfSoL5SVBCHLQxzjeCx5RDYgSJN8hchRZzZpT2Z8z3JGoP95dMlCyP1bff1o\u002BEyITxL1DoiP4OyM5hThtio8ATYE9VlB\u002BHU8yNwnti4asU5sNMebTmIY0oGGrM7U4QlKbCnwsiFE52L8Ea26xTEPtVG\u002BR3m/GS0frmGaM11O/IUceixe9HUtYELvidcs\u002Brwk8KXzoeGjCwIzg=="}-->
-	<h1>Hello METANIT.COM</h1>
-
-	<button>+</button>
-	<span>0</span><!--Blazor:{"prerenderId":"dc73e5a95532421a86ed3e7b63831c29"}-->
-	<script src="_framework/blazor.server.js"></script>
-	<script src="/_framework/aspnetcore-browser-refresh.js"></script>
-</body>
+    <head>
+        <meta charset="utf-8" />
+        <title>MySite</title>
+        <base href="~/" />
+    </head>
+    <body>
+    <component type="typeof(App)" render-mode="ServerPrerendered" />
+    <script src="_framework/blazor.server.js"></script>
+    </body>
 </html>
