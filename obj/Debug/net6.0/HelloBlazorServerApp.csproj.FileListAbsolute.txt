@@ -26,3 +26,5 @@ C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\HelloBlazorSer
 C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\ref\HelloBlazorServerApp.dll
 C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\HelloBlazorServerApp.RazorAssemblyInfo.cache
 C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\HelloBlazorServerApp.RazorAssemblyInfo.cs
+C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\scopedcss\Components\Home.razor.rz.scp.css
+C:\Users\kyper\source\repos\HelloBlazorServerApp\obj\Debug\net6.0\scopedcss\projectbundle\HelloBlazorServerApp.bundle.scp.css

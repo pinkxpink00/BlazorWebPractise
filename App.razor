@@ -1,9 +1,12 @@
-﻿<h1>@title</h1>
-<p>@p1</p>
-@code
+﻿@*HelloBlazorServerApp, HelloBlazorServerApp.Pages*@
+@namespace HelloBlazorServerApp.Pages
+@using HelloBlazorServerApp.Components
+
+<h1>@header</h1>
+
+<Home/>
+
+@code 
 {
-    string title = "Welcome to MyWebSite";
-    string p1 = "In this site i'll be practice my web(blazor) skill";
-
+    string header = "App Blazor";
 }
-

@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\kyper\\source\\repos\\HelloBlazorServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HelloBlazorServerApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HelloBlazorServerApp.bundle.scp.css"
+    },
+    {
       "Id": "C:\\Users\\kyper\\source\\repos\\HelloBlazorServerApp\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cPi9ZtlFI3PkS3kHi0Bc9Hb7dX2JQtsaMiJjaNDRmFw=",
+  "Hash": "kICkYPBOKTnw31H+NcZ8qv8/h8P/DdyElcF7wyU6PZ4=",
   "Source": "HelloBlazorServerApp",
   "BasePath": "_content/HelloBlazorServerApp",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\kyper\\source\\repos\\HelloBlazorServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HelloBlazorServerApp.styles.css",
+      "SourceId": "HelloBlazorServerApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyper\\source\\repos\\HelloBlazorServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/HelloBlazorServerApp",
+      "RelativePath": "HelloBlazorServerApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kyper\\source\\repos\\HelloBlazorServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HelloBlazorServerApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\kyper\\source\\repos\\HelloBlazorServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HelloBlazorServerApp.bundle.scp.css",
+      "SourceId": "HelloBlazorServerApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyper\\source\\repos\\HelloBlazorServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/HelloBlazorServerApp",
+      "RelativePath": "HelloBlazorServerApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kyper\\source\\repos\\HelloBlazorServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HelloBlazorServerApp.bundle.scp.css"
+    },
     {
       "Identity": "C:\\Users\\kyper\\source\\repos\\HelloBlazorServerApp\\wwwroot\\css\\style.css",
       "SourceId": "HelloBlazorServerApp",
