@@ -1,6 +1,15 @@
-﻿<h2>@header</h2>
-
+﻿<h2>Users Count: @Count</h2>
+<ul>
+    @foreach (var user in Users)
+    {
+        <li>@user</li>
+    }
+</ul>
 @code 
 {
-    string header = "Main Page";
+    [Parameter]
+    public List<string> Users { get; set; } = new();
+
+    [Parameter]
+    public int Count { get; set; }
 }

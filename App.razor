@@ -2,11 +2,9 @@
 @namespace HelloBlazorServerApp.Pages
 @using HelloBlazorServerApp.Components
 
-<h1>@header</h1>
-
-<Home/>
-
+<h1>App Blazor</h1>
+<Home Count="@users.Count" Users="@users"></Home>
 @code 
 {
-    string header = "App Blazor";
+    List<string> users = new List<string> { "Tom", "Bob", "Jim" };
 }
